@@ -96,7 +96,7 @@ exports.menu = (pushname) => {
 ╠☞ *${prefix}kodepos*
 ╠☞ *${prefix}nulis*
 ║
-║══★〘 VIDE FIKRI BOT 〙★══
+║══★〘 KUVIANTI INDONESIA NET 〙★══
 `
 }
 exports.menuAdmin = () => {
